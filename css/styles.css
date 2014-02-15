@@ -1,0 +1,12 @@
+@font-face {
+   font-family: my_font; 
+   src: url('/judge/css/slow.otf');
+} 
+@font-face {
+   font-family: mt_font; 
+   src: url('/judge/css/light.otf');
+}
+@font-face {
+   font-family: mc_font; 
+   src: url('/judge/css/daniel.ttf');
+}
